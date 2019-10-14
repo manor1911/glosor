@@ -71,7 +71,7 @@ def menu():
     for num, choice in enumerate(menu_choices, 1):
         print(str(num), choice[0].format(**globals()))
 
-    fun = lambda: None
+    fun = lambda:  # Do nothing
 
     with contextlib.suppress(Exception):
         index = int(input('Välj: ')) - 1
