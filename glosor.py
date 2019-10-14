@@ -68,7 +68,6 @@ menu_choices = [
 ]
 
 def menu():
-    # print(globals())
     for num, choice in enumerate(menu_choices, 1):
         print(str(num), choice[0].format(**globals()))
 
