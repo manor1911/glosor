@@ -1,0 +1,78 @@
+[
+    {
+        "from": "svenska",
+        "to": "engelska",
+        "tests": [
+            {
+                "name": "2019-42",
+                "separator": "=",
+                "order": "svenska = engelska",
+                "words": [
+                    "sångare = singer",
+                    "sig själv = himself",
+                    "fattig = poor",
+                    "växte upp = grew up",
+                    "lastbil = truck",
+                    "skiva = record",
+                    "ensam = alone",
+                    "livsstil = lifestyle",
+                    "generös = generous",
+                    "helt ny = brand new",
+                    "lyx = luxury",
+                    "jordnötssmör = peanut butter",
+                    "stekt = fried",
+                    "när byggdes de? = when were they built?",
+                    "för det mesta = mostly"
+                ]
+            },
+            {
+                "name": "2019-43",
+                "separator": "-",
+                "order": "engelska - svenska",
+                "words": [
+                    "I don’t get it - jag förstår inte",
+                    "no way! - absolut inte!",
+                    "unless - om inte",
+                    "thought - ändå",
+                    "jealous - avundsjuk",
+                    "gone mad - blivit galen",
+                    "for a few weeks - i några veckor",
+                    "locked - låst",
+                    "suddenly - plötsligt",
+                    "fame - berömmelse",
+                    "lots of bad stuff - många dåliga saker",
+                    "a piece of paper - ett papper",
+                    "never mind - det spelar ingen roll",
+                    "seafood - fisk och skaldjur",
+                    "hang out with friends - vara med kompisar"
+                ]
+            }
+        ]
+    },
+    {
+        "from": "svenska",
+        "to": "spanska",
+        "tests": [
+            {
+                "name": "2019-41",
+                "separator": "=",
+                "order": "spanska=svenska",
+                "words": [
+                    "Hola a todos = Hej allesammans",
+                    "¿Qué hay? = Hur är läget?",
+                    "Me llamo = jag heter",
+                    "¿y tú? = och du?",
+                    "Vivo en = jag bor i",
+                    "Cerca de = nära",
+                    "Una casa = ett hus, en villa",
+                    "casi = nästan",
+                    "catorce = fjorton",
+                    "un perro = en hund",
+                    "un gato = en katt",
+                    "no tengo animales = jag har inga djur",
+                    "nos vemos = vi ses"
+                ]
+            }
+        ]
+    }
+]
