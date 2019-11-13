@@ -5,6 +5,7 @@ import asyncio
 import contextlib
 import json
 import random
+import unicodedata
 
 with open('ord.json') as f:
     all_tests = json.load(f)
@@ -53,6 +54,13 @@ def parse_test(f, t, test):
 
     return result
 
+def demangle(word):
+    # l = ['NFC', 'NFKC', 'NFD', 'NFKD']
+
+    # for p in l:
+    #     print(p, unicodedata.normalize(p, word).encode('ascii', 'ignore'))
+    return unicodedata.normalize('NFKD', word).encode('ascii', 'ignore').upper()
+
 def do_test(word_list):
     random.shuffle(word_list)
 
@@ -71,7 +79,8 @@ def do_test(word_list):
 
             word = input('> {}'.format(extra))
 
-            if word.upper() == correct_word.upper():
+            if demangle(word) == demangle(correct_word):
+            # if word.upper() == correct_word.upper():
                 print('Rätt svar. Bra jobbat.')
                 correct += 1
                 break

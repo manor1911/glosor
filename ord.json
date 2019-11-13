@@ -26,28 +26,6 @@
                 ]
             },
             {
-                "name": "2019-45",
-                "separator": "-",
-                "order": "engelska - svenska",
-                "words": [
-                    "forced - tvingade",
-                    "dream about - drömma om",
-                    "talent - talang",
-                    "too shy - alltför blyg",
-                    "live out my dream - leva ut min dröm",
-                    "through - genom",
-                    "competition - tävling",
-                    "spent - spenderade",
-                    "impressed - imponerad",
-                    "sang - sjöng",
-                    "a dream come true - en dröm som blev sann",
-                    "did quite well - klarade sig ganska bra",
-                    "twice a week - två gånger i veckan",
-                    "free time - fritid",
-                    "good chance - bra möjligheter"
-                ]
-            },
-            {
                 "name": "2019-43",
                 "separator": "-",
                 "order": "engelska - svenska",
@@ -67,6 +45,28 @@
                     "never mind - det spelar ingen roll",
                     "seafood - fisk och skaldjur",
                     "hang out with friends - vara med kompisar"
+                ]
+            },
+            {
+                "name": "2019-45",
+                "separator": "-",
+                "order": "engelska - svenska",
+                "words": [
+                    "forced - tvingade",
+                    "dream about - drömma om",
+                    "talent - talang",
+                    "too shy - alltför blyg",
+                    "live out my dream - leva ut min dröm",
+                    "through - genom",
+                    "competition - tävling",
+                    "spent - spenderade",
+                    "impressed - imponerad",
+                    "sang - sjöng",
+                    "a dream come true - en dröm som blev sann",
+                    "did quite well - klarade sig ganska bra",
+                    "twice a week - två gånger i veckan",
+                    "free time - fritid",
+                    "good chance - bra möjligheter"
                 ]
             }
         ]
@@ -93,6 +93,30 @@
                     "un gato = en katt",
                     "no tengo animales = jag har inga djur",
                     "nos vemos = vi ses"
+                ]
+            },
+            {
+                "name": "2019-45",
+                "separator": "=",
+                "order": "spanska=svenska",
+                "words": [
+                    "¿Tienes animales? = Har du husdjur?",
+                    "Si, tengo… = Ja,jag har…",
+                    "¿y tú? = och du?",
+                    "un conejo = en kanin",
+                    "un perro = en hund",
+                    "un gato = en katt",
+                    "un caballo = en häst",
+                    "un pájaro = en fågel",
+                    "un hámster = en hamster",
+                    "una rana = en groda",
+                    "una tortuga = en sköldpadda",
+                    "una araña = en spindel",
+                    "una iguana = en leguan/ödla",
+                    "una culebra = en orm",
+                    "una rata = en råtta",
+                    "un pez = en fisk",
+                    "una lechuza = en uggla"
                 ]
             }
         ]
