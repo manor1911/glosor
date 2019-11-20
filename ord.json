@@ -68,6 +68,28 @@
                     "free time - fritid",
                     "good chance - bra möjligheter"
                 ]
+            },
+            {
+                "name": "2019-47",
+                "separator": "-",
+                "order": "svenska - engelska",
+                "words": [
+                    "eländig - miserable",
+                    "framgångsrik - successful",
+                    "barnslig - childish",
+                    "maktlös - powerless",
+                    "farlig - dangerous",
+                    "oanvändbar - useless",
+                    "tålamod - patience",
+                    "rädsla - fear",
+                    "försiktigt - carefully",
+                    "frekvent - frequently",
+                    "ärlig - honest",
+                    "vänlig - kind",
+                    "lat - lazy",
+                    "störst - biggest",
+                    "sömnig - sleepy"
+                ]
             }
         ]
     },
